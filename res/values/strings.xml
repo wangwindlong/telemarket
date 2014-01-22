@@ -1,0 +1,168 @@
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">非常赢销</string>
+    <string name="shared_Id">telemarket.root</string>
+    <string name="shared_Label">salesman</string>
+
+    <!--抽屉列表的数组列表-->
+    <string-array name="drawer_title_array">
+        <item>主界面</item>
+        <item>系统设置</item>
+        <item>系统帮助</item>
+        <item>检测更新</item>
+        <item>联系我们</item>
+    </string-array>
+
+    <!--相应抽屉列表的 标题数组列表-->
+    <string-array name="fragment_title_array">
+        <item>非常营销</item>
+        <item>系统设置</item>
+        <item>系统帮助</item>
+        <item>检测更新</item>
+        <item>联系我们</item>
+    </string-array>
+
+    <!--相应抽屉列表的 图标名字数组列表-->
+    <string-array name="fragment_icon_array">
+        <item>main_icon</item>
+        <item>system_settings_icon</item>
+        <item>system_help_icon</item>
+        <item>check_new_icon</item>
+        <item>call_icon</item>
+    </string-array>
+
+    <!--主界面gridview中各个item的标题-->
+    <string-array name="main_title_array">
+        <item>客户</item>
+        <item>产品</item>
+        <item>工具</item>
+        <item>日程</item>
+        <item>战绩</item>
+        <item>知识</item>
+    </string-array>
+
+    <!--主界面gridview中各个item的图标名字-->
+    <string-array name="main_image_array">
+        <item>main_custom</item>
+        <item>profuct_icon</item>
+        <item>apply_icon</item>
+        <item>dailyplan_icon</item>
+        <item>record_icon</item>
+        <item>knowledge_icon</item>
+    </string-array>
+
+    <string name="custom_array_title">所属行业</string>
+    <!--客户列表里spinner值-->
+    <string-array name="custom_array">
+        <item>金融行业（56）</item>
+        <item>汽车4S店（29）</item>
+    </string-array>
+
+    <!--产品列表里spinner值-->
+    <string-array name="product_array">
+        <item>分红保险</item>
+        <item>投资连结保险</item>
+        <item>万能人寿保险</item>
+        <item>年金保险</item>
+        <item>终身死亡寿险</item>
+        <item>两全保险</item>
+    </string-array>
+
+    <!--客户跟进界面spinner值-->
+    <string-array name="follow_year">
+        <item>2010年</item>
+        <item>2011年</item>
+        <item>2012年</item>
+        <item>2013年</item>
+        <item>2014年</item>
+        <item>2015年</item>
+        <item>2016年</item>
+    </string-array>
+    <string-array name="follow_jidu">
+        <item>2013年第一季度</item>
+        <item>2013年第二季度</item>
+        <item>2013年第三季度</item>
+        <item>2013年第四季度</item>
+        <item>2014年第一季度</item>
+        <item>2014年第二季度</item>
+        <item>2014年第三季度</item>
+        <item>2014年第四季度</item>
+    </string-array>
+    <string-array name="follow_month">
+        <item>2013年01月</item>
+        <item>2013年02月</item>
+        <item>2013年03月</item>
+        <item>2013年04月</item>
+        <item>2013年05月</item>
+        <item>2013年06月</item>
+        <item>2013年07月</item>
+        <item>2013年08月</item>
+        <item>2013年09月</item>
+        <item>2013年10月</item>
+        <item>2013年11月</item>
+        <item>2013年12月</item>
+        <item>2014年01月</item>
+        <item>2014年02月</item>
+    </string-array>
+    <string-array name="follow_week">
+        <item>2013年第01周</item>
+        <item>2013年第02周</item>
+        <item>2013年第03周</item>
+        <item>2013年第04周</item>
+        <item>2013年第05周</item>
+        <item>2013年第06周</item>
+        <item>2013年第07周</item>
+        <item>2013年第08周</item>
+        <item>2013年第09周</item>
+        <item>2013年第10周</item>
+    </string-array>
+
+
+    <string name="drawer_open">Open navigation drawer</string>
+
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+    <string name="my_custom_title">我的客户</string>
+    <string name="faxin_cancel">取消</string>
+    <string name="dialog_confirm">确认</string>
+    <string name="faxin_sendnow">立即发送</string>
+    <string name="faxin_name">客户姓名</string>
+    <string name="faxin_nick">产品选择</string>
+    <string name="faxin_zc">客户尊称</string>
+    <string name="faxin_myname">我的姓名</string>
+    <string name="send_message_title">发送短信</string>
+    <!--登录-->
+    <string name="name_hint">用户名</string>
+    <string name="pwd_hint">密  码</string>
+    <string name="login_name_hint">请您输入登录名</string>
+    <string name="login_pwd_hint">请您输入密码</string>
+    <string name="network_bugeili">请您稍后再试！</string>
+    <string name="user_password_error">用户名或密码错误</string>
+    <!--主页-->
+    <string name="signed">已签订单：&lt;font color="black">@signed&lt;/font></string>
+    <string name="total">任务总量：&lt;font color="black">@total&lt;/font></string>
+    <string name="rest">剩余指标：&lt;font color="red">@rest&lt;/font></string>
+
+    <string name="product_list_title">产品一览</string>
+    <string name="product_instruction">人寿保险可以被划分成风险保障型人寿保险和投资理财型人寿保险。风险保障型人寿保险风险保障型人寿保险偏重于
+        保障人的生存或者死亡的风险。风险保障型人寿保险又可以分为定期死亡寿险、终身死亡寿险、两全保险、年金保险。</string>
+
+    <string name="sign_title">我的客户</string>
+</resources>

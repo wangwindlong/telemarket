@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/drawer_item_bg"
+              android:paddingLeft="15dip"
+              android:paddingRight="15dip"
+              android:paddingTop="8dip"
+              android:paddingBottom="8dip">
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/drawer_item_iv"
+            android:layout_gravity="center"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/drawer_item_tv"
+            android:text="系统设置"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginLeft="15dip"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            />
+</LinearLayout>

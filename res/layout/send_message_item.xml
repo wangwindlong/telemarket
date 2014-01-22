@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+        >
+    <LinearLayout
+            android:id="@+id/custom_item_ll"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="vertical"
+            android:background="@drawable/round_text_gray2blue_selector"
+            android:paddingBottom="3dip"
+            android:paddingTop="3dip">
+
+        <TextView android:id="@+id/FaxinNameTv"
+                  android:layout_width="match_parent"
+                  android:layout_height="fill_parent"
+                  android:layout_weight="1"
+                  android:gravity="center"
+                  android:textSize="14sp"
+                  android:layout_gravity="center"
+                  android:singleLine="true"
+                  android:textColor="@color/textcolor_gray2black_selecter"
+                />
+        <TextView
+                android:id="@+id/FaxinPhnumTv"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:singleLine="true"
+                android:layout_gravity="center"
+                android:textSize="14sp"
+                android:textColor="@color/textcolor_gray2black_selecter"
+                />
+    </LinearLayout>
+    <TextView
+            android:id="@+id/FaxinPlusTv"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:singleLine="true"
+            android:layout_gravity="center"
+            android:textSize="14sp"
+            android:background="@drawable/plus_icon"
+            android:visibility="gone"
+            android:textColor="@color/textcolor_gray2black_selecter"
+            />
+</RelativeLayout>

@@ -1,0 +1,127 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <!--<style name="AppTheme" parent="AppBaseTheme">-->
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    <!--</style>-->
+
+    <!--@android:style/Theme.Holo.Light 这个属性是sdk-11才出来的，需要3.0以上-->
+    <style name="ThemeForCustomTitle" parent="AppBaseTheme" >
+        <item name="android:windowTitleSize">45dp</item>
+        <item name="android:windowTitleBackgroundStyle">@style/StatusBarBackground</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="StatusBarBackground">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="dialog" parent="@android:style/Theme.Holo.Dialog">
+
+        <item name="android:background">#00000000</item>
+        <!-- 设置自定义布局的背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 设置window背景透明，也就是去边框 -->
+        <!--<item name="android:windowBackground">@null</item>-->
+        <!--<item name="android:windowNoTitle">true</item>-->
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+    <style name="titleStyle" parent="AppBaseTheme">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_margin">8dip</item>
+        <item name="android:textColor">@color/red</item>
+    </style>
+
+    <style name="barLayoutStyle" parent="AppBaseTheme">
+        <item name="android:background">@color/lightblue</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="topBar" parent="AppBaseTheme">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">10dip</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="bottomBar" parent="AppBaseTheme">
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/main_gv_item_selector</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">12dip</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <!--详细列表中展示用的每一项的风格-->
+    <style name="remarkStyle" parent="AppBaseTheme">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">@dimen/remark_size</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <!--详细列表中存放值用的每一项的风格-->
+    <style name="resultStyle" parent="AppBaseTheme">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_marginLeft">15dip</item>
+    </style>
+
+    <!--发信界面按钮每一项的风格-->
+    <style name="faxinStyle" parent="AppBaseTheme">
+        <item name="android:textSize">12sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textColor">@color/textcolor_snow2black_selecter</item>
+        <item name="android:background">@drawable/main_gv_item_selector</item>
+    </style>
+
+    <style name="Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/full_transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:background">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+
+    <style name="LoginCheckBoxStyle" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_background</item>
+    </style>
+
+</resources>

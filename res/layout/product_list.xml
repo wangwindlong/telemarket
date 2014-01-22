@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white">
+    <RelativeLayout
+            android:id="@+id/tool_rl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/heavyblue">
+        <CheckBox
+                android:id="@+id/select_all_cb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="全选"
+                android:textColor="@color/topbar_textcolor"
+                android:layout_marginLeft="15dip"
+                android:layout_centerVertical="true"
+                android:visibility="gone"
+                />
+
+        <TextView
+                android:id="@+id/more_tool_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dip"
+                android:background="@drawable/apply_icon"
+                android:visibility="gone"/>
+
+        <Spinner
+                android:id="@+id/product_sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/more_tool_tv"
+                android:layout_toRightOf="@id/select_all_cb"
+                android:padding="5dip"
+                android:layout_marginTop="5dip"
+                android:layout_marginBottom="8dip"
+                android:layout_marginLeft="15dip"
+                android:layout_marginRight="10dip"
+                android:background="@color/lightblue"
+                android:prompt="@string/custom_array_title"/>
+    </RelativeLayout>
+    <include
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@id/tool_rl"
+            layout="@layout/fragment_custom"/>
+</RelativeLayout>

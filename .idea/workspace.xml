@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="3.2in QVGA (ADP2)" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-10" />
+        <option name="theme" value="AppBaseTheme" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="device" value="2.7in QVGA" />
+        <option name="dockMode" value="" />
+        <option name="nightMode" value="notnight" />
+        <option name="targetHashString" value="android-10" />
+        <option name="theme" value="Theme" />
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" name="Default" comment="" />
+    <ignored path="telemarket.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/fragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390397656043" ignored="false" />
+    <file path="/MainActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390397413926" ignored="false" />
+    <file path="/activity_main.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389583953590" ignored="false" />
+    <file path="/strings.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390225923315" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390224548754" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389536086407" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/example/telemarket/BuildConfig.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389247613877" ignored="false" />
+    <file path="/fragment_planet.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1388976921028" ignored="false" />
+    <file path="/Dummy.txt" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389945331501" ignored="false" />
+    <file path="/drawer_item.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1388984187185" ignored="false" />
+    <file path="/colors.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389836319424" ignored="false" />
+    <file path="/a.dummy" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390232910891" ignored="false" />
+    <file path="/fragment_main.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390226149512" ignored="false" />
+    <file path="/main_top_tool.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389927116729" ignored="false" />
+    <file path="/MainFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390270174023" ignored="false" />
+    <file path="/AppConfig.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390224286510" ignored="false" />
+    <file path="/OtherFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389060677458" ignored="false" />
+    <file path="/main_gv_item.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389609156718" ignored="false" />
+    <file path="/main_gv_item_selector.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389241470509" ignored="false" />
+    <file path="/heavyblue2red_selector.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389066716777" ignored="false" />
+    <file path="/NewCustomActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389067101764" ignored="false" />
+    <file path="$PROJECT_DIR$/../MyRssReader/gen/com/MyRssReader/MyRssReader/R.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389080503903" ignored="false" />
+    <file path="/custom_list.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389948761762" ignored="false" />
+    <file path="/styles.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389934863228" ignored="false" />
+    <file path="/CustomListActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389941499436" ignored="false" />
+    <file path="$PROJECT_DIR$/../案例学习/android源码/music/vanilla-master/res/drawable/selectable_item_bg.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389141856693" ignored="false" />
+    <file path="/DailyPlanActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389152323971" ignored="false" />
+    <file path="/JsonTool.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389153703638" ignored="false" />
+    <file path="/ModelResult.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389153823816" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/小项目源码/opensource/oschina-master-1.7.4/src/net/oschina/app/bean/URLs.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389159196209" ignored="false" />
+    <file path="/CustomContactFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389765615308" ignored="false" />
+    <file path="/fragment_custom.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390398145871" ignored="false" />
+    <file path="/CustomInfo.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390353446253" ignored="false" />
+    <file path="/CustomListAdapter.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389765371647" ignored="false" />
+    <file path="/custom_list_item.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390311345904" ignored="false" />
+    <file path="/AppManager.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389233415140" ignored="false" />
+    <file path="/CustomDetailActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389935019216" ignored="false" />
+    <file path="/selectable_item_bg.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389238930869" ignored="false" />
+    <file path="/main_gv_item_background_transition.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389241455695" ignored="false" />
+    <file path="/custom_detail.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389948726917" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/example/telemarket/Manifest.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389247542758" ignored="false" />
+    <file path="/CustomDetailFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389331105468" ignored="false" />
+    <file path="/fragment_custom_detail_info.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389331588361" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/AIH_E/res/layout/staff_detail_pager.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389314889862" ignored="false" />
+    <file path="/dimens.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389317008452" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/AIH-E/AIH_E/res/drawable/round_text.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389318672941" ignored="false" />
+    <file path="/round_text.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389319390117" ignored="false" />
+    <file path="/fragment_custom_detail_follow.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390225985551" ignored="false" />
+    <file path="/CustomDetailFollowFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389332034495" ignored="false" />
+    <file path="/CustomDetailInfoFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389332068978" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/Mseeage_sms/src/com/gra/active/SmsActity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389664223907" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/Mseeage_sms/src/com/gra/active/Threads.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389332851046" ignored="false" />
+    <file path="/SmsActity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389664223907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/小项目源码/¡¶AndroidºËÐÄ¼¼ÊõÓëÊµÀýÏê½â¡·Ô´´úÂë/µÚ8ÕÂ/Sample_8_1/src/wyf/wpf/Sample_8_1.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389437566963" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/小项目源码/¡¶AndroidºËÐÄ¼¼ÊõÓëÊµÀýÏê½â¡·Ô´´úÂë/µÚ8ÕÂ/Sample_8_1/src/wyf/wpf/MyView.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389437578424" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/小项目源码/¡¶AndroidºËÐÄ¼¼ÊõÓëÊµÀýÏê½â¡·Ô´´úÂë/µÚ8ÕÂ/Sample_8_1/src/wyf/wpf/MyThread.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389437586183" ignored="false" />
+    <file path="$PROJECT_DIR$/../案例学习/android源码/music/vanilla-master/res/layout/full_playback.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389493227143" ignored="false" />
+    <file path="$PROJECT_DIR$/../案例学习/android源码/music/vanilla-master/src/org/kreed/vanilla/CoverBitmap.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389493668650" ignored="false" />
+    <file path="/SendMessageActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390286343921" ignored="false" />
+    <file path="/send_message.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389835569798" ignored="false" />
+    <file path="/textcolor_selecter.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389775988452" ignored="false" />
+    <file path="/textcolor_snow2gray_selecter.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389533885694" ignored="false" />
+    <file path="/a.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389534648041" ignored="false" />
+    <file path="/a.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389535089000" ignored="false" />
+    <file path="/MainGvadapter.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389581761037" ignored="false" />
+    <file path="/textcolor_snow2black_selecter.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389586776293" ignored="false" />
+    <file path="/send_message_item.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389836237303" ignored="false" />
+    <file path="/round_text_gray_white.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389591382708" ignored="false" />
+    <file path="/round_text_gray_white_clicked.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389591500706" ignored="false" />
+    <file path="/round_text_gray_white_selector.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389591752195" ignored="false" />
+    <file path="/round_text_gray_white_clicked_1.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389591701244" ignored="false" />
+    <file path="/round_text_gray_white_transition.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389591813901" ignored="false" />
+    <file path="/textcolor_gray2black_selecter.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389592480247" ignored="false" />
+    <file path="/round_text_blue.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389836369415" ignored="false" />
+    <file path="/SendMessage.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389666297201" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/gen/org/alex/asiainfolinkagecom/pic/R.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389671335839" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/src/org/alex/asiainfolinkagecom/pic/AboutActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389611676655" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/src/org/alex/asiainfolinkagecom/pic/MyAdView.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389611676363" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/gen/org/alex/asiainfolinkagecom/pic/Manifest.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389671335839" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/src/org/alex/asiainfolinkagecom/pic/MyCanvasView.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389611792840" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/src/org/alex/asiainfolinkagecom/pic/IndexActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389612415438" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/src/org/alex/asiainfolinkagecom/pic/MainActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389611766337" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/src/org/alex/asiainfolinkagecom/pic/GirlpicActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389611676655" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/AndroidManifest.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389671227004" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/src/org/alex/asiainfolinkagecom/GirlforpicActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389611676655" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/project.properties" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389611676655" ignored="false" />
+    <file path="$USER_HOME$/.IntelliJIdea12/system/compile-server/girlforpic_ae86e9b5/targets/java-production/girlforpic/android/generated_sources/aapt/org/alex/asiainfolinkagecom/pic/R.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389672138849" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/gen/org/alex/asiainfolinkagecom/pic/BuildConfig.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389672138849" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/.project" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389611676655" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/.classpath" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389611676655" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/proguard-project.txt" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389611676655" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/games/girlforpic/girlforpic.iml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389611676655" ignored="false" />
+    <file path="/IndexActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389612169392" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/Mseeage_sms/AndroidManifest.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389666155806" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/Mseeage_sms/gen/com/gra/active/Manifest.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389666157152" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/Mseeage_sms/gen/com/gra/active/R.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389666157152" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/Mseeage_sms/src/com/gra/active/SmsReceiver.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389664954112" ignored="false" />
+    <file path="/SmsReceiver.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389664920582" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/Mseeage_sms/gen/com/gra/active/BuildConfig.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389666626094" ignored="false" />
+    <file path="/PhoneBroadcast.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389751107189" ignored="false" />
+    <file path="/SqliteUtil.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389675582909" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/ui/ListMultiChoise/src/com/example/listmultichoise/MainActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389852336653" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/ui/ListMultiChoise/src/com/example/listmultichoise/MyListAdapter.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389769484485" ignored="false" />
+    <file path="/MyListAdapter.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389764680960" ignored="false" />
+    <file path="/LaunchReceiver.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389689361320" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/ContentObserver/src/com/qin/contentobserver/MainActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389714832938" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/ContentObserver/src/com/qin/contentobserver/SMSContentObserver.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389716171938" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/ContentObserver/src/com/qin/contentobserver/AirplaneContentObserver.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389716255649" ignored="false" />
+    <file path="/SMSContentObserver.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389716171312" ignored="false" />
+    <file path="/PhoneListenService.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389752299712" ignored="false" />
+    <file path="/SendMsgGvadapter.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390274369555" ignored="false" />
+    <file path="/CustomContactLocalFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389766241494" ignored="false" />
+    <file path="/CustomContactGroupFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389766755356" ignored="false" />
+    <file path="/CustomContactPoolFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390397627980" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/ui/ListMultiChoise/res/layout/list_multi_select_actionbar.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389767522993" ignored="false" />
+    <file path="/list_multi_select_actionbar.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389856988505" ignored="false" />
+    <file path="/CustomPoolListAdapter.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390397324056" ignored="false" />
+    <file path="$PROJECT_DIR$/../案例学习/布局外形相关/AndroidTitleBar/src/com/easyway/titlebar/AndroidTitleBarActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389773514384" ignored="false" />
+    <file path="$PROJECT_DIR$/../案例学习/布局外形相关/AndroidTitleBar/res/layout/title.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389773476852" ignored="false" />
+    <file path="/title.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389773476852" ignored="false" />
+    <file path="/AndroidTitleBarActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389773501672" ignored="false" />
+    <file path="/title_bar.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389774494301" ignored="false" />
+    <file path="/login.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389834412240" ignored="false" />
+    <file path="/LoginActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390218456773" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/AIH-E/AIH_E/src/com/ztech/platform/storetreasure/LoginActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389777814971" ignored="false" />
+    <file path="/round_text_gray2blue_selector.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389836198273" ignored="false" />
+    <file path="/round_text_gray.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389836174870" ignored="false" />
+    <file path="/listview_bg_selector.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389851232760" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/AIH_G/src/com/ztech/platform/gov/MainActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390210198980" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/AIH_G/src/com/ztech/platform/common/component/NavigationHorizontalScrollView.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390210144714" ignored="false" />
+    <file path="/NavigationHorizontalScrollView.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390210143290" ignored="false" />
+    <file path="/ShowActionModeInterface.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389855668407" ignored="false" />
+    <file path="/DispatcherActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389873758537" ignored="false" />
+    <file path="/StringUtil.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390354086773" ignored="false" />
+    <file path="/User.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389925478854" ignored="false" />
+    <file path="/change_password_dialog.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390192491166" ignored="false" />
+    <file path="/ChangePasswordDialog.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390189125281" ignored="false" />
+    <file path="/ProductListActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390270142597" ignored="false" />
+    <file path="/product_list.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389942277737" ignored="false" />
+    <file path="/ProductInfo.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390232474514" ignored="false" />
+    <file path="/ProductListAdapter.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390233003915" ignored="false" />
+    <file path="/product_list_item.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389944229260" ignored="false" />
+    <file path="/ProductDetailActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390233567911" ignored="false" />
+    <file path="/product_detail.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390220406237" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/小项目源码/opensource/oschina-master-1.7.4/gen/net/oschina/app/BuildConfig.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390181114103" ignored="false" />
+    <file path="/DateTool.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390196649365" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/AIH-E/AIH_E/src/com/ztech/platform/storetreasure/ui/announcement/AnnouncementListActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390200767442" ignored="false" />
+    <file path="/AnnouncementBean.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390201988031" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/AIH_G/src/com/ztech/platform/gov/ExitApplication.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390210654721" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/AIH_G/src/com/ztech/platform/gov/ui/workattendance/WorkAttendanceActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390210849138" ignored="false" />
+    <file path="/SignActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390217780013" ignored="false" />
+    <file path="/sign.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390219880906" ignored="false" />
+    <file path="/MyApplication.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390218661978" ignored="false" />
+    <file path="/SignInActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390220130140" ignored="false" />
+    <file path="/market_tool.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390225848417" ignored="false" />
+    <file path="/NewApplyActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390270320129" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/example/telemarket/R.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390225782748" ignored="false" />
+    <file path="/Product.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390230783141" ignored="false" />
+    <file path="/*.regexp" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390310593656" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/android-studio/sdk/samples/android-17/ApiDemos/src/com/example/android/apis/view/OverscanActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390290132735" ignored="false" />
+    <file path="/DataBaseHelper.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390294000422" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/AIH-E/AIH_E/src/com/ztech/platform/storetreasure/db/dao/DailyRecordDao.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390296291062" ignored="false" />
+    <file path="/DailyRecordDao.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390296278610" ignored="false" />
+    <file path="/CustomInfoDao.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390309639863" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/AIH_E/src/com/ztech/platform/storetreasure/db/dao/DailyRecordDao.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390305821622" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/AIH_E/res/layout/machine_retri_item.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390311319723" ignored="false" />
+    <file path="/machine_retri_item.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390311257275" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/AIH_E/src/com/ztech/platform/storetreasure/LoadActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390350577811" ignored="false" />
+    <file path="/LoadActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390350518171" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/AIH_E/src/com/ztech/platform/storetreasure/ExitApplication.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390350829453" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/AIH_E/src/com/ztech/platform/storetreasure/MainActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390351133527" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/AIH_E/src/com/ztech/platform/storetreasure/adapter/smscommunication/MachineRetriAdapter.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390352646326" ignored="false" />
+    <file path="/MachineRetriAdapter.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390352646326" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../studio/project/AIH_E/src/com/ztech/platform/storetreasure/ui/smscommunication/SMSCommunicationActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390352861836" ignored="false" />
+    <file path="/retri_overlay.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390355503563" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/SortListView/src/com/example/sortlistview/SortAdapter.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390359043149" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/SortListView/src/com/example/sortlistview/SortModel.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390359064297" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/SortListView/src/com/example/sortlistview/SideBar.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390359081516" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/SortListView/src/com/example/sortlistview/MainActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390397417741" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/SortListView/src/com/example/sortlistview/ClearEditText.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390359126066" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/SortListView/src/com/example/sortlistview/CharacterParser.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390359143836" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/SortListView/res/values/arrays.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390359383747" ignored="false" />
+    <file path="/PinyinComparator.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390360338377" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/SortListView/gen/com/example/sortlistview/Manifest.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390390920707" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/SortListView/gen/com/example/sortlistview/R.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390390920707" ignored="false" />
+    <file path="$PROJECT_DIR$/../实例源代码/SortListView/gen/com/example/sortlistview/BuildConfig.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390392140478" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="telemarket" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/MainFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="79" column="14" selection-start="2702" selection-end="2812" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomContactGroupFragment.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactGroupFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="49" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomContactPoolFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactPoolFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="101" column="17" selection-start="3485" selection-end="4248" vertical-scroll-proportion="-9.285714">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MachineLetterLv.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/component/MachineLetterLv.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="15" selection-start="1228" selection-end="1229" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomPoolListAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomPoolListAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="169" column="49" selection-start="6384" selection-end="6384" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomListActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/ui/CustomListActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="95" column="37" selection-start="3992" selection-end="3992" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SendMessageActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/ui/SendMessageActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="146" column="17" selection-start="5909" selection-end="5909" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomInfoDao.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/db/dao/CustomInfoDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="26" selection-start="559" selection-end="572" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/ui/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/adapter/SendMsgGvadapter.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/ui/SendMessageActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/db/DataBaseHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/db/dao/DailyRecordDao.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/db/dao/CustomInfoDao.java" />
+        <option value="$PROJECT_DIR$/res/layout/custom_list_item.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/bean/CustomInfo.java" />
+        <option value="$PROJECT_DIR$/src/com/example/tool/StringUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/example/component/MachineLetterLv.java" />
+        <option value="$PROJECT_DIR$/res/layout/retri_overlay.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/comparator/PinyinComparator.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomPoolListAdapter.java" />
+        <option value="$PROJECT_DIR$/res/layout/fragment_custom.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactPoolFragment.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="59" />
+    <option name="y" value="-5" />
+    <option name="width" value="1308" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Annotations verifyingGroovy</id>
+          </State>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+          <State>
+            <id>Assignment issues</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CFML</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structure</id>
+          </State>
+          <State>
+            <id>Cloning issues</id>
+          </State>
+          <State>
+            <id>Code maturity issues</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issues</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Concurrency annotation issues</id>
+          </State>
+          <State>
+            <id>Control FlowGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issues</id>
+          </State>
+          <State>
+            <id>Data flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>Dependency issues</id>
+          </State>
+          <State>
+            <id>Encapsulation issues</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>Facelet format detection</id>
+          </State>
+          <State>
+            <id>FlexUnit inspections</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Imports</id>
+          </State>
+          <State>
+            <id>Inheritance issues</id>
+          </State>
+          <State>
+            <id>Initialization issues</id>
+          </State>
+          <State>
+            <id>IntelliJ IDEA Platform Inspections</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>J2ME issues</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSF annotated elements errors</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issues</id>
+          </State>
+          <State>
+            <id>Logging issues</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Memory issues</id>
+          </State>
+          <State>
+            <id>Modularization issues</id>
+          </State>
+          <State>
+            <id>Naming ConventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventions</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issues</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Packaging issues</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Resource management issues</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Security issues</id>
+          </State>
+          <State>
+            <id>Serialization issues</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring Model</id>
+          </State>
+          <State>
+            <id>Spring Model</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring Model</id>
+          </State>
+          <State>
+            <id>Tapestry inspections</id>
+          </State>
+          <State>
+            <id>TestNG</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>Velocity inspections</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructs</id>
+          </State>
+          <State>
+            <id>Visibility issues</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>toString() issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="unused-library(library:project:android-support-v4)" />
+    </ignored-problems>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fragment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="comparator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/com/example/telemarket" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../tools/cocos2d-x/cocos2d-x-2.2.1/samples/Cpp/SimpleGame/proj.android" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.56.101:5555" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="480x800-4.0" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="AndroidTargetDevices" value="P752A15" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.comparator" />
+      <recent name="com.example.component" />
+      <recent name="com.example.telemarket.db.dao" />
+      <recent name="com.example.telemarket.db" />
+      <recent name="com.example.telemarket.bean" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/layout" />
+      <recent name="$PROJECT_DIR$/res/raw" />
+      <recent name="$PROJECT_DIR$/libs" />
+      <recent name="$PROJECT_DIR$/res/drawable-hdpi" />
+      <recent name="$PROJECT_DIR$/res/values-v14" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.telemarket">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="telemarket" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="telemarket" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="telemarket" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.telemarket" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" name="Default" comment="" />
+      <created>1388966747694</created>
+      <updated>1388966747694</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="-5" width="1308" height="774" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1937799" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19059011" sideWeight="0.7734628" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24960127" sideWeight="0.7734628" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43042073" sideWeight="0.43141946" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43042073" sideWeight="0.56858057" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.049441785" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20574163" sideWeight="0.7734628" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22653721" sideWeight="0.5366826" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/db/dao/CustomInfoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="26" selection-start="559" selection-end="572" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/bean/CustomInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="47" selection-start="252" selection-end="264" vertical-scroll-proportion="0.49253732">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/product_detail.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="53" selection-start="4797" selection-end="4797" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/tool/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="309" column="15" selection-start="9470" selection-end="9470" vertical-scroll-proportion="0.46567163">
+          <folding>
+            <element signature="e#0#10463#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#6440#6448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/custom_list.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.5231316">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="49" selection-start="933" selection-end="965" vertical-scroll-proportion="0.62903225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/retri_overlay.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="67" selection-start="340" selection-end="340" vertical-scroll-proportion="0.37366548">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../studio/android-studio/sdk/sources/android-15/android/graphics/PixelFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="28" selection-start="903" selection-end="903" vertical-scroll-proportion="0.3313433" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/component/MachineLetterLv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="15" selection-start="1228" selection-end="1229" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/comparator/PinyinComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="45" selection-start="430" selection-end="430" vertical-scroll-proportion="0.4182156">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/MainFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="14" selection-start="2702" selection-end="2812" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomPoolListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="169" column="49" selection-start="6384" selection-end="6384" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="45" selection-start="1745" selection-end="1759" vertical-scroll-proportion="0.036585364">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/fragment_custom.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="102" selection-start="733" selection-end="733" vertical-scroll-proportion="0.7647059">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactPoolFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="17" selection-start="3485" selection-end="4248" vertical-scroll-proportion="-9.285714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactGroupFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="49" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android 4.2.2 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>telemarket</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android 4.0.3 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>android-support-v4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

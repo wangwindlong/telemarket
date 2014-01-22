@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="white">#FFFFFF</color>
+	<color name="snow">#fff8f4f4</color>
+	<color name="black">#000000</color>
+	<color name="gray">#808080</color>
+	<color name="light_gray">#22808080</color>
+	<color name="red">#FF0000</color>
+	<color name="gold">#FFD700</color>
+	<color name="yellow">#FFFF00</color>
+	<color name="green">#008000</color>
+	<color name="blue">#0000FF</color>
+	<color name="purple">#800080</color>
+	<color name="pink">#FFC0CB</color>
+	<color name="orange">#FFA500</color>
+	<color name="lemonyellow">#FFFACD</color>
+	<color name="graywhite">#F5F5F5</color>
+	<color name="grayslate">#708090</color>
+	<color name="lightblue">#0099df</color>
+	<color name="heavyblue">#0081bb</color>
+
+    <color name="full_transparent">#00000000</color>
+    <color name="half_transparent">#aa000000</color>
+    
+    <color name="bright_foreground_light">#ff000000</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    
+    <color name="dim_foreground_light">#808080</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light_inverse">#ff006eaa</color>
+    <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    
+    <!--<color name="drawer_bg">#0e5986</color>-->
+    <!--<color name="drawer_item_bg">#033a5c</color>-->
+
+    <color name="face_bg">#eef1f4</color>
+
+    <color name="listitem_transparent">#00000000</color>
+    <color name="listitem_black">#ff000000</color>
+    <color name="listitem_white">#ffffffff</color>
+    <color name="listitem_blue">#0e5986</color>
+    <color name="listitem_gray">#449da19e</color>
+    <color name="listitem_green">#ffe3ffc6</color>
+    <color name="listitem_greenyellow">#ff87b869</color>
+    <color name="listitem_yellow">#fffaffbf</color>
+
+    <!--主界面gridview item的点击颜色-->
+    <color name="gv_clicked">#ed2025</color>
+    <color name="gv_clicked_1">#44FF0000</color>
+    <color name="gv_normal">#0099df</color>  <!-- 主界面gridview 的正常颜色-->
+    <color name="gv_divider">#00aee7</color> <!-- 主界面gridview 的背景颜色-->
+    <!--主界面的drawer颜色-->
+    <color name="drawer_top">#23475f</color>  <!-- 主界面drawer 顶端的颜色-->
+    <color name="drawer_item_bg">#1c3d50</color>  <!-- 主界面drawer listview item的背景色-->
+    <color name="drawer_divider">#23475f</color>  <!-- 主界面drawer listview 的分割线-->
+    <!--上部分：#23475f  顶端的颜色-->
+    <!--下部分：#1c3d50 item的颜色和整体颜色-->
+    <!--分割线：#23475f  listview的颜色-->
+
+    <color name="topbar_textcolor">#FFFAFA</color>
+</resources>
