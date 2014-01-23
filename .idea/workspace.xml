@@ -27,7 +27,21 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" name="Default" comment="" />
+    <list default="true" id="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/raw/telemarket.db" afterPath="$PROJECT_DIR$/res/raw/telemarket.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactGroupFragment.java" afterPath="$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactGroupFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactPoolFragment.java" afterPath="$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactPoolFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomGroupLocalListAdapter.java" afterPath="$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomGroupLocalListAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/telemarket/db/dao/CustomInfoDao.java" afterPath="$PROJECT_DIR$/src/com/example/telemarket/db/dao/CustomInfoDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/telemarket/ui/CustomListActivity.java" afterPath="$PROJECT_DIR$/src/com/example/telemarket/ui/CustomListActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomLocalListAdapter.java" afterPath="$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomLocalListAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomPoolListAdapter.java" afterPath="$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomPoolListAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/telemarket/db/DataBaseHelper.java" afterPath="$PROJECT_DIR$/src/com/example/telemarket/db/DataBaseHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/custom_list_item.xml" afterPath="$PROJECT_DIR$/res/layout/custom_list_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/fragment_custom.xml" afterPath="$PROJECT_DIR$/res/layout/fragment_custom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="telemarket.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/fragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390397656043" ignored="false" />
@@ -35,10 +49,9 @@
     <file path="/activity_main.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389583953590" ignored="false" />
     <file path="/strings.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390225923315" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390224548754" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389536086407" ignored="false" />
     <file path="$PROJECT_DIR$/gen/com/example/telemarket/BuildConfig.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389247613877" ignored="false" />
     <file path="/fragment_planet.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1388976921028" ignored="false" />
-    <file path="/Dummy.txt" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389945331501" ignored="false" />
+    <file path="/Dummy.txt" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390459606648" ignored="false" />
     <file path="/drawer_item.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1388984187185" ignored="false" />
     <file path="/colors.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389836319424" ignored="false" />
     <file path="/a.dummy" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390232910891" ignored="false" />
@@ -54,7 +67,7 @@
     <file path="$PROJECT_DIR$/../MyRssReader/gen/com/MyRssReader/MyRssReader/R.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389080503903" ignored="false" />
     <file path="/custom_list.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389948761762" ignored="false" />
     <file path="/styles.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389934863228" ignored="false" />
-    <file path="/CustomListActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389941499436" ignored="false" />
+    <file path="/CustomListActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390457414920" ignored="false" />
     <file path="$PROJECT_DIR$/../案例学习/android源码/music/vanilla-master/res/drawable/selectable_item_bg.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389141856693" ignored="false" />
     <file path="/DailyPlanActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389152323971" ignored="false" />
     <file path="/JsonTool.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389153703638" ignored="false" />
@@ -141,8 +154,8 @@
     <file path="/SMSContentObserver.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389716171312" ignored="false" />
     <file path="/PhoneListenService.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389752299712" ignored="false" />
     <file path="/SendMsgGvadapter.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390274369555" ignored="false" />
-    <file path="/CustomContactLocalFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389766241494" ignored="false" />
-    <file path="/CustomContactGroupFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389766755356" ignored="false" />
+    <file path="/CustomContactLocalFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390456819568" ignored="false" />
+    <file path="/CustomContactGroupFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390456372090" ignored="false" />
     <file path="/CustomContactPoolFragment.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390397627980" ignored="false" />
     <file path="$PROJECT_DIR$/../实例源代码/ui/ListMultiChoise/res/layout/list_multi_select_actionbar.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389767522993" ignored="false" />
     <file path="/list_multi_select_actionbar.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389856988505" ignored="false" />
@@ -193,7 +206,7 @@
     <file path="/DataBaseHelper.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390294000422" ignored="false" />
     <file path="$PROJECT_DIR$/../实例源代码/AIH-E/AIH_E/src/com/ztech/platform/storetreasure/db/dao/DailyRecordDao.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390296291062" ignored="false" />
     <file path="/DailyRecordDao.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390296278610" ignored="false" />
-    <file path="/CustomInfoDao.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390309639863" ignored="false" />
+    <file path="/CustomInfoDao.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390458521506" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../studio/project/AIH_E/src/com/ztech/platform/storetreasure/db/dao/DailyRecordDao.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390305821622" ignored="false" />
     <file path="$PROJECT_DIR$/../../../../studio/project/AIH_E/res/layout/machine_retri_item.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390311319723" ignored="false" />
     <file path="/machine_retri_item.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390311257275" ignored="false" />
@@ -216,6 +229,7 @@
     <file path="$PROJECT_DIR$/../实例源代码/SortListView/gen/com/example/sortlistview/Manifest.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390390920707" ignored="false" />
     <file path="$PROJECT_DIR$/../实例源代码/SortListView/gen/com/example/sortlistview/R.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390390920707" ignored="false" />
     <file path="$PROJECT_DIR$/../实例源代码/SortListView/gen/com/example/sortlistview/BuildConfig.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390392140478" ignored="false" />
+    <file path="/NeedToDoActivity.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390450479394" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,19 +300,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/MainFragment.java">
+      <file leaf-file-name="CustomContactGroupFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactGroupFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="14" selection-start="2702" selection-end="2812" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="26" column="44" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#627#639#0" expanded="true" />
+                <element signature="e#1551#1563#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomContactGroupFragment.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactGroupFragment.java">
+      <file leaf-file-name="CustomGroupLocalListAdapter.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomGroupLocalListAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="49" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.5">
+            <state line="141" column="6" selection-start="5147" selection-end="5147" vertical-scroll-proportion="0.42215568">
               <folding />
             </state>
           </provider>
@@ -307,16 +325,7 @@
       <file leaf-file-name="CustomContactPoolFragment.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactPoolFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="17" selection-start="3485" selection-end="4248" vertical-scroll-proportion="-9.285714">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MachineLetterLv.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/component/MachineLetterLv.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="15" selection-start="1228" selection-end="1229" vertical-scroll-proportion="0.0">
+            <state line="46" column="91" selection-start="1763" selection-end="1843" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -325,7 +334,7 @@
       <file leaf-file-name="CustomPoolListAdapter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomPoolListAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="169" column="49" selection-start="6384" selection-end="6384" vertical-scroll-proportion="0.0">
+            <state line="160" column="42" selection-start="5957" selection-end="5981" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -334,25 +343,28 @@
       <file leaf-file-name="CustomListActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/ui/CustomListActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="37" selection-start="3992" selection-end="3992" vertical-scroll-proportion="0.0">
+            <state line="96" column="36" selection-start="4038" selection-end="4038" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#4442#4614#0" expanded="true" />
+                <element signature="e#4607#4608#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomContactLocalFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactLocalFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="44" selection-start="993" selection-end="993" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SendMessageActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/ui/SendMessageActivity.java">
+      <file leaf-file-name="CustomLocalListAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomLocalListAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="146" column="17" selection-start="5909" selection-end="5909" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomInfoDao.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/db/dao/CustomInfoDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="26" selection-start="559" selection-end="572" vertical-scroll-proportion="0.0">
+            <state line="146" column="39" selection-start="5359" selection-end="5359" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -365,25 +377,34 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/example/telemarket/AppConfig.java" />
-        <option value="$PROJECT_DIR$/src/com/example/telemarket/ui/MainActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/example/telemarket/adapter/SendMsgGvadapter.java" />
-        <option value="$PROJECT_DIR$/src/com/example/telemarket/ui/SendMessageActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/example/telemarket/db/DataBaseHelper.java" />
-        <option value="$PROJECT_DIR$/src/com/example/telemarket/db/dao/DailyRecordDao.java" />
-        <option value="$PROJECT_DIR$/src/com/example/telemarket/db/dao/CustomInfoDao.java" />
-        <option value="$PROJECT_DIR$/res/layout/custom_list_item.xml" />
-        <option value="$PROJECT_DIR$/src/com/example/telemarket/bean/CustomInfo.java" />
         <option value="$PROJECT_DIR$/src/com/example/tool/StringUtil.java" />
         <option value="$PROJECT_DIR$/src/com/example/component/MachineLetterLv.java" />
         <option value="$PROJECT_DIR$/res/layout/retri_overlay.xml" />
         <option value="$PROJECT_DIR$/src/com/example/comparator/PinyinComparator.java" />
-        <option value="$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomPoolListAdapter.java" />
-        <option value="$PROJECT_DIR$/res/layout/fragment_custom.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/ui/NeedToDoActivity.java" />
         <option value="$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactPoolFragment.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactLocalFragment.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/ui/CustomListActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactGroupFragment.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/db/dao/CustomInfoDao.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/db/DataBaseHelper.java" />
+        <option value="$PROJECT_DIR$/res/layout/fragment_custom.xml" />
+        <option value="$PROJECT_DIR$/res/layout/custom_list_item.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomPoolListAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomLocalListAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomGroupLocalListAdapter.java" />
       </list>
     </option>
   </component>
@@ -718,7 +739,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -751,6 +772,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -942,6 +964,32 @@
               <option name="myItemId" value="example" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telemarket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1021,34 +1069,49 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/com/example/telemarket" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="OverrideImplement.combined" value="true" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="73" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="90" />
     <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="true" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
-    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="73" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../tools/cocos2d-x/cocos2d-x-2.2.1/samples/Cpp/SimpleGame/proj.android" />
-    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.56.101:5555" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="92" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="969" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="969" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="92" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="90" />
     <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="480x800-4.0" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="AndroidTargetDevices" value="P752A15" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/com/example/telemarket" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="P752A15" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
@@ -1060,8 +1123,8 @@
       <recent name="com.example.telemarket.bean" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/res/layout" />
       <recent name="$PROJECT_DIR$/res/raw" />
+      <recent name="$PROJECT_DIR$/res/layout" />
       <recent name="$PROJECT_DIR$/libs" />
       <recent name="$PROJECT_DIR$/res/drawable-hdpi" />
       <recent name="$PROJECT_DIR$/res/values-v14" />
@@ -1100,19 +1163,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1139,6 +1189,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1220,6 +1283,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" name="Default" comment="" />
@@ -1254,7 +1334,7 @@
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1937799" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19059011" sideWeight="0.7734628" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1265,8 +1345,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43042073" sideWeight="0.43141946" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43042073" sideWeight="0.56858057" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1274,7 +1354,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.049441785" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20574163" sideWeight="0.7734628" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20574163" sideWeight="0.671521" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22653721" sideWeight="0.5366826" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1326,7 +1406,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1349,130 +1429,132 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/db/dao/CustomInfoDao.java">
+    <entry file="file://$PROJECT_DIR$/../../../../studio/android-studio/sdk/sources/android-15/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="26" selection-start="559" selection-end="572" vertical-scroll-proportion="0.0">
+        <state line="135" column="0" selection-start="5490" selection-end="5490" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/bean/CustomInfo.java">
+    <entry file="file://$PROJECT_DIR$/../../../../studio/android-studio/sdk/sources/android-15/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="47" selection-start="252" selection-end="264" vertical-scroll-proportion="0.49253732">
+        <state line="75" column="0" selection-start="2107" selection-end="2107" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/product_detail.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../../../../studio/android-studio/sdk/sources/android-15/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="53" selection-start="4797" selection-end="4797" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/tool/StringUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="309" column="15" selection-start="9470" selection-end="9470" vertical-scroll-proportion="0.46567163">
-          <folding>
-            <element signature="e#0#10463#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#6440#6448#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/custom_list.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.5231316">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="49" selection-start="933" selection-end="965" vertical-scroll-proportion="0.62903225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/retri_overlay.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="67" selection-start="340" selection-end="340" vertical-scroll-proportion="0.37366548">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../studio/android-studio/sdk/sources/android-15/android/graphics/PixelFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="28" selection-start="903" selection-end="903" vertical-scroll-proportion="0.3313433" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/component/MachineLetterLv.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="15" selection-start="1228" selection-end="1229" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/comparator/PinyinComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="45" selection-start="430" selection-end="430" vertical-scroll-proportion="0.4182156">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/MainFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="14" selection-start="2702" selection-end="2812" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomPoolListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="169" column="49" selection-start="6384" selection-end="6384" vertical-scroll-proportion="0.0">
+        <state line="54" column="0" selection-start="1990" selection-end="1990" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/AppConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="45" selection-start="1745" selection-end="1759" vertical-scroll-proportion="0.036585364">
+        <state line="51" column="31" selection-start="2176" selection-end="2176" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/custom_list.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/fragment_custom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="41" selection-start="544" selection-end="544" vertical-scroll-proportion="0.4878049">
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/custom_list_item.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="102" selection-start="733" selection-end="733" vertical-scroll-proportion="0.7647059">
+        <state line="11" column="91" selection-start="505" selection-end="505" vertical-scroll-proportion="0.44715446">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/db/DataBaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="38" selection-start="659" selection-end="659" vertical-scroll-proportion="0.39007092">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/db/dao/CustomInfoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1355" selection-end="1355" vertical-scroll-proportion="0.24634147">
+          <folding>
+            <element signature="e#895#907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/ui/CustomListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="36" selection-start="4038" selection-end="4038" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#4442#4614#0" expanded="true" />
+            <element signature="e#4607#4608#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactLocalFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="44" selection-start="993" selection-end="993" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactPoolFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="17" selection-start="3485" selection-end="4248" vertical-scroll-proportion="-9.285714">
+        <state line="46" column="91" selection-start="1763" selection-end="1843" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomPoolListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="42" selection-start="5957" selection-end="5981" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomLocalListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="39" selection-start="5359" selection-end="5359" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/fragment/CustomContactGroupFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="49" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.5">
+        <state line="26" column="44" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#627#639#0" expanded="true" />
+            <element signature="e#1551#1563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/telemarket/adapter/CustomGroupLocalListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="6" selection-start="5147" selection-end="5147" vertical-scroll-proportion="0.42215568">
           <folding />
         </state>
       </provider>

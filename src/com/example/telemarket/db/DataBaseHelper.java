@@ -12,10 +12,10 @@ import java.util.Map;
 
 public class DataBaseHelper extends SQLiteOpenHelper {
     private static DataBaseHelper dbInstance = null;
-    private static String DATA_FILE = AppConfig.DATA_FILE_PATH + AppConfig.DATABASE_FILENAME;
+    private static String DATA_FILE = AppConfig.DATA_FILE_PATH + "/" + AppConfig.DATABASE_FILENAME;
     private static SQLiteDatabase sqliteDb = null;
     private Context mContext;
-    private static int VERSION = 1;
+    private static int VERSION = 3;
 
     /**
      * 显示调用父类的方法

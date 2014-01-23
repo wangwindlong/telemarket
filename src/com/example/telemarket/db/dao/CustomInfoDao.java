@@ -34,10 +34,11 @@ public class CustomInfoDao {
         try {
             helper = DataBaseHelper.getInstance(context);
             sqliteDatabase = helper.getReadableDatabase();
-//            String[] columnArray = new String[]{"c_name", "c_num", "c_id", "c_sex","c_position","c_easyname","c_birth","c_company","c_","c_","c_","c_","c_"};
-            cursor = sqliteDatabase.query("custom_group", null, null, null, null, null, null);
+            String[] columnArray = new String[]{"c_name", "c_position", "c_id", "c_company","c_industry","c_group","c_telephone"};
+            cursor = sqliteDatabase.query("custom_group", columnArray, null, null, null, null, null);
             customInfoList = getCustom(cursor);
         } catch (Exception e) {
+            e.printStackTrace();
         } finally {
             helper.closeAll(cursor, sqliteDatabase, helper);
         }
@@ -135,18 +136,19 @@ public class CustomInfoDao {
         List<CustomInfo> customInfoList = new ArrayList<CustomInfo>();
         while (cursor.moveToNext()) {
             CustomInfo info = new CustomInfo();
+//            {"c_name", "c_position", "c_id", "c_company","c_industry","c_group", "c_telephone"}
             info.setId(cursor.getString(cursor.getColumnIndex("c_id")));
             info.setName(cursor.getString(cursor.getColumnIndex("c_name")));
             info.setPosition(cursor.getString(cursor.getColumnIndex("c_position")));
             info.setBusiness(cursor.getString(cursor.getColumnIndex("c_industry")));
             info.setCompany(cursor.getString(cursor.getColumnIndex("c_company")));
             info.setTelephone(cursor.getString(cursor.getColumnIndex("c_telephone")));
-            info.setEasyName(cursor.getString(cursor.getColumnIndex("c_easyname")));
+//            info.setEasyName(cursor.getString(cursor.getColumnIndex("c_easyname")));
             info.setGuid(cursor.getString(cursor.getColumnIndex("c_group")));  //客户所属分组 group uid
-            info.setCustomType(cursor.getString(cursor.getColumnIndex("c_type")));
-            info.setMailBox(cursor.getString(cursor.getColumnIndex("c_email")));
-            info.setProvince(cursor.getString(cursor.getColumnIndex("c_province")));
-            info.setResieveMsg(cursor.getString(cursor.getColumnIndex("c_sendmsg")));
+//            info.setCustomType(cursor.getString(cursor.getColumnIndex("c_type")));
+//            info.setMailBox(cursor.getString(cursor.getColumnIndex("c_email")));
+//            info.setProvince(cursor.getString(cursor.getColumnIndex("c_province")));
+//            info.setResieveMsg(cursor.getString(cursor.getColumnIndex("c_sendmsg")));
             customInfoList.add(info);
         }
         return customInfoList;

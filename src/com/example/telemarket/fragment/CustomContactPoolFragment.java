@@ -18,6 +18,7 @@ import com.example.telemarket.R;
 import com.example.telemarket.adapter.CustomPoolListAdapter;
 import com.example.telemarket.bean.CustomInfo;
 import com.example.telemarket.ui.CustomDetailActivity;
+import com.example.telemarket.ui.CustomListActivity;
 import com.example.tool.StringUtil;
 
 import java.util.ArrayList;
@@ -84,7 +85,6 @@ public class CustomContactPoolFragment extends Fragment {
     public void onStart() {
         super.onStart();
 //        new MainAsyncTask().execute("");
-
     }
 
     //漂浮的检索字

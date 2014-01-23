@@ -2,6 +2,7 @@ package com.example.telemarket.adapter;
 
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -36,6 +37,7 @@ public class CustomLocalListAdapter extends BaseAdapter {
         public TextView position;   //职位
         public TextView business;  //所属行业
         public TextView company;   //所属公司
+        public TextView retriAlpha;   //分组条
         public ImageView photo;   //头像
 
         public ImageView callIv;  //打电话的imageview
@@ -61,10 +63,8 @@ public class CustomLocalListAdapter extends BaseAdapter {
 
     // 初始化isSelected的数据
     private void initDate() {
-//        itemState = new boolean[listItems.size()];
         for (int i = 0; i < listItems.size(); i++) {
             hashMap.put(i, false);
-//            itemState[i] = false;
         }
     }
 
@@ -109,7 +109,7 @@ public class CustomLocalListAdapter extends BaseAdapter {
             listItemView.photo = (ImageView) convertView.findViewById(R.id.custom_item_photo_iv);
             listItemView.callIv = (ImageView) convertView.findViewById(R.id.custom_item_call_iv);
             listItemView.msgIv = (ImageView) convertView.findViewById(R.id.custom_item_msg_iv);
-
+            listItemView.retriAlpha = (TextView) convertView.findViewById(R.id.retriAlpha);
             //设置控件集到convertView
             convertView.setTag(listItemView);
         } else {
@@ -144,6 +144,7 @@ public class CustomLocalListAdapter extends BaseAdapter {
             @Override
             public void onClick(View v) {
                 hashMap.put(position, !hashMap.get(position));
+                notifyDataSetChanged();
             }
         });
         convertView.setOnClickListener(new View.OnClickListener() {
@@ -155,20 +156,29 @@ public class CustomLocalListAdapter extends BaseAdapter {
             }
         });
 
-//        updateBackground(position, convertView);
+        updateBackground(position, convertView);
+        //根据position获取分类的首字母的Char ascii值
+        int section = getSectionForPosition(position);
+        //如果当前位置等于该分类首字母的Char的位置 ，则认为是第一次出现
+        if(position == getPositionForSection(section)){
+            listItemView.retriAlpha.setVisibility(View.VISIBLE);
+            listItemView.retriAlpha.setText(customitem.getRetriAlpha());
+        }else{
+            listItemView.retriAlpha.setVisibility(View.GONE);
+        }
+
         return convertView;
     }
 
     public void updateBackground(int position, View view) {
-//        int backgroundId;
-//        if (itemState[position]) {
-//            backgroundId = R.drawable.list_pressed_holo_dark;
-//        } else {
-//            backgroundId = R.drawable.listview_bg_selector;
-//        }
-        view.setPressed(hashMap.get(position));
-//        Drawable background = context.getResources().getDrawable(backgroundId);
-//        view.setBackgroundDrawable(background);
+        int backgroundId;
+        if (hashMap.get(position)) {
+            backgroundId = R.drawable.list_longpressed_holo;
+        } else {
+            backgroundId = R.color.full_transparent;
+        }
+        Drawable background = context.getResources().getDrawable(backgroundId);
+        view.setBackgroundDrawable(background);
     }
 
     public void selectAll(boolean isSelected) {
@@ -186,6 +196,25 @@ public class CustomLocalListAdapter extends BaseAdapter {
             }
         }
         return customList;
+    }
+    /**
+     * 根据ListView的当前位置获取分类的首字母的Char ascii值
+     */
+    public int getSectionForPosition(int position) {
+        return listItems.get(position).getRetriAlpha().charAt(0);
+    }
+    /**
+     * 根据分类的首字母的Char ascii值获取其第一次出现该首字母的位置
+     */
+    public int getPositionForSection(int section) {
+        for (int i = 0; i < getCount(); i++) {
+            String sortStr = listItems.get(i).getRetriAlpha();
+            char firstChar = sortStr.toUpperCase().charAt(0);
+            if (firstChar == section) {
+                return i;
+            }
+        }
+        return -1;
     }
 
     public void uncheckAll() {

@@ -92,7 +92,7 @@ public class CustomListActivity extends FragmentActivity {
 
     private void initViewPager() {
         viewPager = (ViewPager) findViewById(R.id.mycustom_viewpager);
-        views.add(CustomContactPoolFragment.getInstance(new CheckAllSelected()));
+        views.add(CustomContactPoolFragment.getInstance(checkAllSelected));
         views.add(new CustomContactGroupFragment());
         views.add(new CustomContactLocalFragment());
 
@@ -103,12 +103,12 @@ public class CustomListActivity extends FragmentActivity {
         viewPager.setOnPageChangeListener(new PageChangeLisener());
     }
 
-    class CheckAllSelected implements CheckAllSelectedInterface {
+    CheckAllSelectedInterface checkAllSelected = new CheckAllSelectedInterface() {
         @Override
         public void checkSelected(boolean isAllChecked) {
             checkBox.setChecked(isAllChecked);
         }
-    }
+    };
 
     class TopBarOnClickListener implements View.OnClickListener {
         int num;

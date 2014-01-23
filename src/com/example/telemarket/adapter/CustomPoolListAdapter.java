@@ -51,12 +51,12 @@ public class CustomPoolListAdapter extends BaseAdapter {
      * @param data
      * @param resource
      */
-    public CustomPoolListAdapter(Context context, List<CustomInfo> data, int resource, CheckAllSelectedInterface checkAllSelectedInterface) {
+    public CustomPoolListAdapter(Context context, List<CustomInfo> data, int resource, CheckAllSelectedInterface checkAllSelected) {
         this.context = context;
         this.listContainer = LayoutInflater.from(context);    //创建视图容器并设置上下文
         this.itemViewResource = resource;
         this.listItems = data;
-        this.checkAllSelectedInterface = checkAllSelectedInterface;
+        this.checkAllSelectedInterface = checkAllSelected;
         this.hashMap = new HashMap<Integer, Boolean>();
         // 初始化数据
         initData();
@@ -221,7 +221,6 @@ public class CustomPoolListAdapter extends BaseAdapter {
                 return i;
             }
         }
-
         return -1;
     }
 

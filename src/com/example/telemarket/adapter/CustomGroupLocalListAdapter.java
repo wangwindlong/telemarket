@@ -2,6 +2,7 @@ package com.example.telemarket.adapter;
 
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,6 +11,7 @@ import android.widget.BaseAdapter;
 import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.TextView;
+import com.example.jiekou.CheckAllSelectedInterface;
 import com.example.telemarket.R;
 import com.example.telemarket.bean.CustomInfo;
 import com.example.telemarket.ui.CustomDetailActivity;
@@ -28,7 +30,6 @@ public class CustomGroupLocalListAdapter extends BaseAdapter {
     private int itemViewResource;//自定义项视图源
     private HashMap<Integer, Boolean> hashMap; //保存checbox的状态
     private boolean actionModeStarted;
-//    private boolean[] itemState;
 
     static class ListItemView {                //自定义控件集合
         public CheckBox checkBox;
@@ -36,6 +37,7 @@ public class CustomGroupLocalListAdapter extends BaseAdapter {
         public TextView position;   //职位
         public TextView business;  //所属行业
         public TextView company;   //所属公司
+        public TextView retriAlpha;   //分组条
         public ImageView photo;   //头像
 
         public ImageView callIv;  //打电话的imageview
@@ -109,7 +111,7 @@ public class CustomGroupLocalListAdapter extends BaseAdapter {
             listItemView.photo = (ImageView) convertView.findViewById(R.id.custom_item_photo_iv);
             listItemView.callIv = (ImageView) convertView.findViewById(R.id.custom_item_call_iv);
             listItemView.msgIv = (ImageView) convertView.findViewById(R.id.custom_item_msg_iv);
-
+            listItemView.retriAlpha = (TextView) convertView.findViewById(R.id.retriAlpha);
             //设置控件集到convertView
             convertView.setTag(listItemView);
         } else {
@@ -144,6 +146,7 @@ public class CustomGroupLocalListAdapter extends BaseAdapter {
             @Override
             public void onClick(View v) {
                 hashMap.put(position, !hashMap.get(position));
+                notifyDataSetChanged();
             }
         });
         convertView.setOnClickListener(new View.OnClickListener() {
@@ -155,20 +158,19 @@ public class CustomGroupLocalListAdapter extends BaseAdapter {
             }
         });
 
-//        updateBackground(position, convertView);
+        updateBackground(position, convertView);
         return convertView;
     }
 
     public void updateBackground(int position, View view) {
-//        int backgroundId;
-//        if (itemState[position]) {
-//            backgroundId = R.drawable.list_pressed_holo_dark;
-//        } else {
-//            backgroundId = R.drawable.listview_bg_selector;
-//        }
-        view.setPressed(hashMap.get(position));
-//        Drawable background = context.getResources().getDrawable(backgroundId);
-//        view.setBackgroundDrawable(background);
+        int backgroundId;
+        if (hashMap.get(position)) {
+            backgroundId = R.drawable.list_longpressed_holo;
+        } else {
+            backgroundId = R.color.full_transparent;
+        }
+        Drawable background = context.getResources().getDrawable(backgroundId);
+        view.setBackgroundDrawable(background);
     }
 
     public void selectAll(boolean isSelected) {
