@@ -157,6 +157,7 @@ public class CustomGroupLocalListAdapter extends BaseAdapter {
                 context.startActivity(intent);
             }
         });
+
         updateBackground(position, convertView);
         return convertView;
     }
