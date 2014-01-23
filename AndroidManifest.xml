@@ -3,6 +3,7 @@
           package="com.example.telemarket"
           android:versionCode="1"
           android:versionName="1.0"
+
           android:sharedUserId="@string/shared_Id"
           android:sharedUserLabel="@string/shared_Label"
           android:installLocation="internalOnly">
