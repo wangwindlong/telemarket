@@ -28,7 +28,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="telemarket.iws" />
@@ -40,7 +39,7 @@
     <file path="/AndroidManifest.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390224548754" ignored="false" />
     <file path="$PROJECT_DIR$/gen/com/example/telemarket/BuildConfig.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389247613877" ignored="false" />
     <file path="/fragment_planet.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1388976921028" ignored="false" />
-    <file path="/Dummy.txt" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390460314396" ignored="false" />
+    <file path="/Dummy.txt" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390460384202" ignored="false" />
     <file path="/drawer_item.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1388984187185" ignored="false" />
     <file path="/colors.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389836319424" ignored="false" />
     <file path="/a.dummy" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390232910891" ignored="false" />
@@ -315,7 +314,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="0.2238806">
+            <state line="16" column="51" selection-start="786" selection-end="786" vertical-scroll-proportion="0.7164179">
               <folding />
             </state>
           </provider>
@@ -1083,7 +1082,7 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../tools/cocos2d-x/cocos2d-x-2.2.1/samples/Cpp/SimpleGame/proj.android" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="92" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="969" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="969" />
@@ -1105,7 +1104,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="P752A15" />
@@ -1313,7 +1312,11 @@
       <created>1390460316822</created>
       <updated>1390460316822</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="aaa">
+      <created>1390460390563</created>
+      <updated>1390460390563</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1342,7 +1345,7 @@
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1937799" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19059011" sideWeight="0.7734628" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1563,7 +1566,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="0.2238806">
+        <state line="16" column="51" selection-start="786" selection-end="786" vertical-scroll-proportion="0.7164179">
           <folding />
         </state>
       </provider>
