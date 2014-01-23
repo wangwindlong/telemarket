@@ -39,7 +39,7 @@
     <file path="/AndroidManifest.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390224548754" ignored="false" />
     <file path="$PROJECT_DIR$/gen/com/example/telemarket/BuildConfig.java" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389247613877" ignored="false" />
     <file path="/fragment_planet.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1388976921028" ignored="false" />
-    <file path="/Dummy.txt" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390460384202" ignored="false" />
+    <file path="/Dummy.txt" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390460655367" ignored="false" />
     <file path="/drawer_item.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1388984187185" ignored="false" />
     <file path="/colors.xml" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1389836319424" ignored="false" />
     <file path="/a.dummy" changelist="0cbe459c-b6f8-47d6-a63a-0752c9c675f2" time="1390232910891" ignored="false" />
@@ -314,7 +314,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="51" selection-start="786" selection-end="786" vertical-scroll-proportion="0.7164179">
+            <state line="20" column="19" selection-start="979" selection-end="979" vertical-scroll-proportion="0.7614213">
               <folding />
             </state>
           </provider>
@@ -1316,7 +1316,11 @@
       <created>1390460390563</created>
       <updated>1390460390563</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="aaa">
+      <created>1390460661385</created>
+      <updated>1390460661385</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1341,11 +1345,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="-5" width="1308" height="774" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1937799" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19059011" sideWeight="0.7734628" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23300971" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293461" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1365,7 +1369,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.049441785" sideWeight="0.7734628" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20574163" sideWeight="0.671521" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20574163" sideWeight="0.7669903" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22653721" sideWeight="0.5366826" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1566,7 +1570,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="51" selection-start="786" selection-end="786" vertical-scroll-proportion="0.7164179">
+        <state line="20" column="19" selection-start="979" selection-end="979" vertical-scroll-proportion="0.7614213">
           <folding />
         </state>
       </provider>
